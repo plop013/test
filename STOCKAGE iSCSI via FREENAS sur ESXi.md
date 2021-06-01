@@ -45,7 +45,7 @@
 1. Services > iSCSI activé (redémmarage)
 2. Storage > pool puis ADD. Créer le pool avec les 3 disques
 3. Créer un Zvol
-    * Sur la ligne du pool créé, les trois ponts à droite pour
+    * Sur la ligne du pool créé, les trois points à droite pour éditer
     * Nom + Taille sparse pour le thin provisionning (dynamique)
 4. Partager en iSCSI
 5. sharing > block Shares (iSCSI)
